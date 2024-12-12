@@ -1,0 +1,36 @@
+{
+  "name": "drivops-next-14",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "latest",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "latest",
+    "@mui/lab": "^5.0.0-alpha.116",
+    "@mui/material": "^5.11.16",
+    "@mui/x-data-grid": "^6.3.1",
+    "dayjs": "latest",
+    "next": "^14.2.20",
+    "npm": "^10.8.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-toastify": "^9.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@typescript-eslint/parser": "^5.59.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "typescript": "^5"
+  }
+}
